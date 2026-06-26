@@ -30,3 +30,8 @@ Python • Machine Learning • Streamlit • Data Science • SQL
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manya-gupta-2b184832b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manya9692-create&theme=tokyonight" />
+</p>
+
