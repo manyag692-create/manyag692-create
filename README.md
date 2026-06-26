@@ -18,3 +18,15 @@
 ## 🛠️ Skills
 
 Python • Machine Learning • Streamlit • Data Science • SQL
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manyag692-create&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyag692-create&layout=compact&theme=tokyonight" />
+</p>
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manya-gupta-2b184832b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
