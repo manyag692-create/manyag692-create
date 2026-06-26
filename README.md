@@ -34,4 +34,6 @@ Python • Machine Learning • Streamlit • Data Science • SQL
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyag692-create&theme=tokyonight" />
 </p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=manyag692-create&theme=tokyonight)]
+
 
