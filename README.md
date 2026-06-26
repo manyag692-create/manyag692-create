@@ -12,8 +12,10 @@
 
 - 🎓 Computer Science Student
 - 🤖 Interested in AI & Machine Learning
-- 🌱 Currently learning Data Science
+- 🌱  Data Science
 - 💡 Building AI-powered projects
+- 🌱 currently learning ML
+- 💡 Going to learn deep learning
 
 ## 🛠️ Skills
 
@@ -35,5 +37,12 @@ Python • Machine Learning • Streamlit • Data Science • SQL
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyag692-create&theme=tokyonight" />
 </p>
 [![Trophy](https://github-profile-trophy.vercel.app/?username=manyag692-create&theme=tokyonight)]
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manyag692-create/manyag692-create/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manyag692-create/manyag692-create/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/manyag692-create/manyag692-create/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 
